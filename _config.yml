@@ -1,0 +1,9 @@
+title: SedonaOps Legal
+description: Legal documents for SedonaOps SMS notification service
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - LICENSE
