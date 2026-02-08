@@ -78,7 +78,7 @@ For new contractors joining SedonaOps, the following opt-in process is used:
 
 ## Verification Screenshot
 
-![SMS Consent Conversation](sms-consent-screenshot.png)
+![SMS Consent Conversation](sms-consent-screenshot.jpg)
 
 *Screenshot shows the full SMS conversation with consent request and affirmative responses from both team members.*
 
