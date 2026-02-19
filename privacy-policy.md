@@ -79,6 +79,10 @@ You have the right to:
 
 **Help:** Reply **HELP** for assistance or contact us at the information below.
 
+## TCPA Compliance
+
+SedonaOps operates its SMS notification service in compliance with the Telephone Consumer Protection Act (TCPA). We obtain express written consent from all contractors before sending SMS notifications. Consent is collected through the SedonaOps Contractor Services Agreement or via SMS keyword opt-in (reply START). Contractors may revoke consent at any time by replying STOP. For details on our consent process, see our [SMS Consent Form](sms-consent-form).
+
 ## Children's Privacy
 
 Our services are not directed to individuals under 18. We do not knowingly collect information from minors.
@@ -92,7 +96,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 For questions about this Privacy Policy or your personal data:
 
 **Email:** privacy@sedonaops.ai
-**Phone:** [Your business phone]
+**Phone:** +1 (928) 531-5570
 **Address:** Sedona, Arizona
 
 ---

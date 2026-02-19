@@ -6,8 +6,10 @@ Welcome to the SedonaOps legal documentation for our SMS notification service.
 
 ### Documents
 
+- [SMS Consent Form](sms-consent-form.md) - How contractors opt in to SMS notifications
 - [Privacy Policy](privacy-policy.md) - How we collect, use, and protect your information
 - [Terms and Conditions](terms-and-conditions.md) - Service terms for SMS notifications
+- [SMS Consent Proof](sms-consent-proof.md) - Documentation of existing contractor consent
 
 ### Quick Reference
 

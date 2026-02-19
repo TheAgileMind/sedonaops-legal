@@ -58,21 +58,20 @@
 
 ---
 
-## Future Contractor Onboarding Process
+## Standard Contractor Opt-In Process
 
-For new contractors joining SedonaOps, the following opt-in process is used:
+For full details on how all contractors (new and existing) consent to receive SMS notifications, see the [SedonaOps SMS Consent Form](sms-consent-form).
 
-1. **Digital Onboarding Form:** Contractor completes online registration
-2. **SMS Consent Checkbox:** Required field with full disclosure (same elements as above)
-3. **Electronic Signature:** Required before account activation
-4. **Privacy & Terms:** Links provided and must be acknowledged
+Two verified opt-in methods are supported:
+1. **Contractor Services Agreement** -- New staff sign a written agreement with a dedicated SMS Consent section before any messages are sent.
+2. **SMS Keyword Opt-In** -- Existing staff text START (or EMPEZAR) and receive full disclosure before enrollment.
 
 **No opt-in methods used:**
-- ❌ Verbal consent without written record
-- ❌ Paper-only forms without digital backup
-- ❌ Imported or purchased contact lists
-- ❌ Social media opt-ins
-- ❌ Website chat widgets
+- Verbal consent without written record
+- Paper-only forms without digital backup
+- Imported or purchased contact lists
+- Social media opt-ins
+- Website chat widgets
 
 ---
 

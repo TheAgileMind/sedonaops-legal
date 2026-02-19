@@ -47,7 +47,7 @@ You will receive a message with support contact information.
 
 You can also contact us directly:
 - **Email:** support@sedonaops.ai
-- **Phone:** [Your business phone]
+- **Phone:** +1 (928) 531-5570
 
 ## Supported Carriers
 
